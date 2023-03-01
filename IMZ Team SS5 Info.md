@@ -8,7 +8,7 @@
   - IMZ_ZoeySendo
   - Waitwhatman206
   - GodPalos
-  - _NEO_TH_ (_ Back & Forth)
+  - _NEO_TH_ (_ Back & Front)
   - NomChomphu
   - Crono5phere
   - _UrSoCringe
@@ -22,7 +22,7 @@
   - FCmafumafu
   - Psycho_Overload
   - StupiZguY
-  - _babylarm_ (_ Back & Forth)
+  - _babylarm_ (_ Back & Front)
   
 ----------
   
